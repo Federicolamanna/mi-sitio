@@ -1,0 +1,9 @@
+{
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
+}
